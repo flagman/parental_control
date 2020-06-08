@@ -1,0 +1,20 @@
+parent_password: "password"
+child_password: "password"
+is_parental_control: true 
+is_internet_on: true 
+allowed_time_daily: 1
+daily_time_spent: 0.0
+mac_addresses: 
+  - A8:34:6A:A8:40:AE
+router_ip: "192.168.31.1" 
+router_key: "router_key"
+router_password: "router_password"
+today: 0
+
+# parent_password - пароль родителя
+# child_password - пароль ребенка
+# parent_control - on/off  - включен или выключен родительский контроль
+# internet_on - переключатель интернета доступный как для ребенка так и для родителя 
+# allowed_time_daily - время в минутах разрешенное ежедневно 
+# daily_time_spent - время в секундах потраченного времени
+# mac_addresses - мак адреса устройств ребенка
